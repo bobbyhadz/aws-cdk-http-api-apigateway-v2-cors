@@ -1,8 +1,7 @@
-# Article name here
+# Enable CORS for HTTP Api in AWS CDK [Api Gateway v2]
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-http-api-apigateway-v2-cors)
 
 ## How to Use
 
