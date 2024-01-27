@@ -1,4 +1,4 @@
-import {CorsHttpMethod, HttpApi} from '@aws-cdk/aws-apigatewayv2-alpha';
+import {CorsHttpMethod, HttpApi} from 'aws-cdk-lib/aws-apigatewayv2';
 import * as cdk from 'aws-cdk-lib';
 
 export class CdkStarterStack extends cdk.Stack {
